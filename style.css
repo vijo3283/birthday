@@ -1,0 +1,91 @@
+
+
+body {
+    margin: 10px;
+    background-color: bisque;
+
+
+}
+
+h1{
+    color: rosybrown;
+}
+
+h2{
+    color: rosybrown;
+    font-size: 45px;
+}
+
+hr{
+    color: blanchedalmond;
+    height: 10px;
+    
+   
+}
+
+a{
+    color:rosybrown;
+    font-size: 40;
+    
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+    text-align: center;
+
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: rosybrown;
+    font-size: 20px;
+
+}
+
+.knapp{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 800px;
+    color: blueviolet;
+}
+
+.bildett{
+    background-image: url("IMG_0444.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    
+}
+
+
+
+
+.streetview-container {
+    width: 800px;     /* set any size you want */
+    height: 400px;    /* rectangle */
+    border: 10px solid color rosybrown;
+    overflow: hidden; /* keeps iframe inside the box */
+}
+
+.streetview-container iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+
+.back{
+    font-size: 20px;
+}
+
+
+.box1{
+
+    border: 2px solid rosybrown;   /* outline */
+    padding: 10px;             /* space inside */
+    width: 200px;              /* optional */
+    background: bisque;       /* box color */
+    border-radius: 3px; 
+
+
+
+}
